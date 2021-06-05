@@ -5,34 +5,34 @@
   </div>
   <div class="formulario">
     <div class="cont-quien">
-      <p >¿Quién eres?</p>
+      <p >¿WHO ARE YOU?</p>
       <div class="form-quien">
-        <input class="nombre" type="text" placeholder="Nombre" size="31">
+        <input class="nombre" type="text" placeholder="Name" size="31">
         <br>
         <br>
-        <input class="numero" type="text" placeholder="Numero" size="31px" >
+        <input class="numero" type="text" placeholder="Number" size="31px" >
         <br>
         <br>
         <input class="mail" type="text" placeholder="e-mail" size="31px" >
       </div>
     </div>
     <div class="cont-donde">
-      <p align="">Dirección</p>
+      <p align="">DIRECTION</p>
       <div class="form-donde">
-        <input class="calle" type="text" placeholder="Numero de Calle" size="31px">
+        <input class="calle" type="text" placeholder="Street Number" size="31px">
         <br>
         <br>
-        <input class="codigo" type="text" placeholder="Codigo Postal" size="31px">
+        <input class="codigo" type="text" placeholder="Postal Code" size="31px">
         <br>
         <br>
-        <input class="districto" type="text" placeholder="Districto" size="31px">
+        <input class="districto" type="text" placeholder="District" size="31px">
       </div>
     </div>
     <div class="hora">
-      <p class="text-hora" align="center">¿A qué hora?</p>
+      <p class="text-hora" align="center">¿What time?</p>
       <div class="cont-hora">
         <select name="horario" id="horario">
-          <option>Hora</option>
+          <option>Hour</option>
           <option>12:00</option>
           <option>13:00</option>
           <option>14:00</option>
@@ -41,11 +41,11 @@
       </div>
     </div>
     <div class="guardar">
-      <input class="check" type="checkbox">Guardar Informacion
+      <input class="check" type="checkbox">Save Information.
     </div>
-    <a href="tipo">
+    <a href="tipoingles">
     <div class="enviar">
-      <input  class="btn-enviar" type="submit" align="center">
+      <input  class="btn-enviar" type="submit" align="center" value="Send">
     </div>
     </a>
   </div>
